@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/QuoteMachine/static/css/main.74af650a.chunk.css",
+    "main.js": "/QuoteMachine/static/js/main.37b7c781.chunk.js",
+    "main.js.map": "/QuoteMachine/static/js/main.37b7c781.chunk.js.map",
+    "runtime-main.js": "/QuoteMachine/static/js/runtime-main.13bfaf2a.js",
+    "runtime-main.js.map": "/QuoteMachine/static/js/runtime-main.13bfaf2a.js.map",
+    "static/js/2.e7d07e6e.chunk.js": "/QuoteMachine/static/js/2.e7d07e6e.chunk.js",
+    "static/js/2.e7d07e6e.chunk.js.map": "/QuoteMachine/static/js/2.e7d07e6e.chunk.js.map",
+    "index.html": "/QuoteMachine/index.html",
+    "precache-manifest.f0fe2c759f9786421496a2a2dc373c27.js": "/QuoteMachine/precache-manifest.f0fe2c759f9786421496a2a2dc373c27.js",
+    "service-worker.js": "/QuoteMachine/service-worker.js",
+    "static/css/main.74af650a.chunk.css.map": "/QuoteMachine/static/css/main.74af650a.chunk.css.map",
+    "static/js/2.e7d07e6e.chunk.js.LICENSE.txt": "/QuoteMachine/static/js/2.e7d07e6e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/QuoteMachine/static/media/donut.11ce4888.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13bfaf2a.js",
+    "static/js/2.e7d07e6e.chunk.js",
+    "static/css/main.74af650a.chunk.css",
+    "static/js/main.37b7c781.chunk.js"
+  ]
+}
